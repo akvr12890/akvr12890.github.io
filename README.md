@@ -1,2 +1,0 @@
-# akvr
-AKVR Test Site
